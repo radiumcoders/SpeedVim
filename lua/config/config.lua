@@ -1,2 +1,2 @@
-vim.wo.number = true 
+vim.wo.number = true
 vim.wo.relativenumber = true

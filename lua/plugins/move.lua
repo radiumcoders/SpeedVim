@@ -1,6 +1,7 @@
-
-return { 'echasnovski/mini.move', version = false,
-config = function()
-require('mini.move').setup()
-end
+return {
+	"echasnovski/mini.move",
+	version = false,
+	config = function()
+		require("mini.move").setup()
+	end,
 }

@@ -1,4 +1,4 @@
-# nvim-distro/
+# SPEED-VIM
 
 <a href="https://dotfyle.com/radiumcoders/nvim-distro"><img src="https://dotfyle.com/radiumcoders/nvim-distro/badges/plugins?style=flat" /></a>
 <a href="https://dotfyle.com/radiumcoders/nvim-distro"><img src="https://dotfyle.com/radiumcoders/nvim-distro/badges/leaderkey?style=flat" /></a>

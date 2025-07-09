@@ -12,13 +12,13 @@
 Clone the repository and install the plugins:
 
 ```sh
-git clone git@github.com:radiumcoders/nvim-distro ~/.config/radiumcoders/nvim-distro
+git clone git@github.com:radiumcoders/SpeedVim ~/.config/radiumcoders/SpeedVim
 ```
 
 Open Neovim with this config:
 
 ```sh
-NVIM_APPNAME=radiumcoders/nvim-distro/ nvim
+NVIM_APPNAME=radiumcoders/SpeedVim/ nvim
 ```
 
 ## Plugins
